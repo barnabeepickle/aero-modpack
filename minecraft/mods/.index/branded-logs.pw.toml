@@ -1,0 +1,21 @@
+filename = 'brandedlogs-neoforge-2.2.0+1.21.1.jar'
+name = 'Branded Logs'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.0'
+
+[download]
+hash = '5e305dd81e9fd4ffce337427651208a966fcb9b75e85205634ce65749ead8be6ca3e75e888cdd154375c3f1735e4aa5e76662e45df06ed7a627148b3fc8132b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tbktcZz2/versions/z6kcdrmF/brandedlogs-neoforge-2.2.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'tbktcZz2'
+version = 'z6kcdrmF'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'
