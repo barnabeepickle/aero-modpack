@@ -1,29 +1,50 @@
+# Other Stuff
+/instance.cfg
+
 # General Minecraft Stuff by Folder
+/minecraft/.mixin.out
 /minecraft/coremods
 /minecraft/data
 /minecraft/defaultconfigs
 /minecraft/downloads
 /minecraft/fancymenu_data
+/minecraft/local
 /minecraft/logs
 /minecraft/saves
 /minecraft/screenshots
 /minecraft/server-resource-packs
 /minecraft/xaero
+/minecraft/XaeroWaypoints_BACKUP240807
 
 # Other Minecraft Stuff
 /minecraft/options.txt
+/minecraft/usercache.json
+/minecraft/usernamecache.json
 
 # Config
 /minecraft/config/.puzzle_cache
 /minecraft/config/crosshairs
+
 #/minecraft/config/fancymenu
+/minecraft/config/fancymenu/layout_editor
+
 /minecraft/config/jade
+
+/minecraft/config/jei/world
+/minecraft/config/jei/blacklist.json
+/minecraft/config/jei/ingredient-list-mod-sort-order.ini
+/minecraft/config/jei/ingredient-list-type-sort-order.ini
+/minecraft/config/jei/jei-debug.ini
+/minecraft/config/jei/jei-mod-id-format.ini
+/minecraft/config/jei/recipe-category-sort-order.ini
+
 /minecraft/config/konkrete
 /minecraft/config/particlerain
 /minecraft/config/sound_physics_remastered
 /minecraft/config/spark
 /minecraft/config/voicechat
 /minecraft/config/xaero
+/minecraft/config/ambientsounds-client.json
 /minecraft/config/appleskin-client.toml
 /minecraft/config/badoptimizations.txt
 /minecraft/config/betteradvancements-client.toml
@@ -32,9 +53,16 @@
 /minecraft/config/carryon-common.toml
 /minecraft/config/chat_heads.json5
 /minecraft/config/chatanimation.json
+/minecraft/config/configured-client.properties
+/minecraft/config/create-client.toml
+/minecraft/config/create-common.toml
+/minecraft/config/create-server.toml
+/minecraft/config/creativecore-client.json
+/minecraft/config/creativecore.json
 /minecraft/config/cubes_without_borders.json
 /minecraft/config/curios-client.toml
 /minecraft/config/curios-common.toml
+/minecraft/config/curios-server.toml
 /minecraft/config/defaultoptions-common.toml
 /minecraft/config/dynamiccrosshair.json5
 /minecraft/config/enchdesc.json
@@ -43,16 +71,21 @@
 /minecraft/config/entityculling.json
 /minecraft/config/etf_warnings.json
 /minecraft/config/ferritecore-mixin.toml
+/minecraft/config/flywheel-client.toml
 /minecraft/config/framedblocks-client.toml
+/minecraft/config/framedblocks-server.toml
 /minecraft/config/ftbchunks-client.snbt
+/minecraft/config/ftbchunks-world.snbt
 /minecraft/config/ftbessentials.snbt
 /minecraft/config/ftblibrary-client.snbt
 /minecraft/config/ftbquests-client.snbt
+/minecraft/config/ftbteams-server.snbt
 /minecraft/config/immediatelyfast.json
 /minecraft/config/iris-excluded.json
 /minecraft/config/iris.properties
 /minecraft/config/jearchaeology-common.toml
 /minecraft/config/jeed-client.toml
+/minecraft/config/jei-server.toml
 /minecraft/config/jeresources-common.toml
 /minecraft/config/lambdynlights.toml
 /minecraft/config/lithium.properties
@@ -65,7 +98,9 @@
 /minecraft/config/MouseTweaks.cfg
 /minecraft/config/neoforge-client.toml
 /minecraft/config/neoforge-common.toml
+/minecraft/config/neoforge-server.toml
 /minecraft/config/notenoughanimations.json
+/minecraft/config/ponder-client.toml
 /minecraft/config/puzzle.json
 /minecraft/config/skinlayers.json
 /minecraft/config/sodium-extra-options.json
@@ -76,6 +111,7 @@
 /minecraft/config/transition.json
 /minecraft/config/travelersbackpack-client.toml
 /minecraft/config/travelersbackpack-common.toml
+/minecraft/config/travelersbackpack-server.toml
 /minecraft/config/trender.json
 /minecraft/config/waveycapes.json
 #/minecraft/config/waystones-common.toml
