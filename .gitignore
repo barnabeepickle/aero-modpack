@@ -4,12 +4,14 @@
 # General Minecraft Stuff by Folder
 /minecraft/.mixin.out
 /minecraft/coremods
+/minecraft/crash-reports
 /minecraft/data
 /minecraft/defaultconfigs
 /minecraft/downloads
 /minecraft/fancymenu_data
 /minecraft/local
 /minecraft/logs
+/minecraft/mods/.connector
 /minecraft/saves
 /minecraft/screenshots
 /minecraft/server-resource-packs
