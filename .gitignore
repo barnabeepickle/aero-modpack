@@ -26,6 +26,8 @@
 # Config
 /minecraft/config/.puzzle_cache
 /minecraft/config/crosshairs
+#/minecraft/config/defaultoptions
+/minecraft/config/fabric
 
 #/minecraft/config/fancymenu
 /minecraft/config/fancymenu/layout_editor
@@ -46,7 +48,9 @@
 /minecraft/config/spark
 /minecraft/config/voicechat
 /minecraft/config/xaero
+
 /minecraft/config/ambientsounds-client.json
+/minecraft/config/antique-atlas.toml
 /minecraft/config/appleskin-client.toml
 /minecraft/config/badoptimizations.txt
 /minecraft/config/betteradvancements-client.toml
@@ -56,6 +60,8 @@
 /minecraft/config/chat_heads.json5
 /minecraft/config/chatanimation.json
 /minecraft/config/configured-client.properties
+/minecraft/config/connector.json
+/minecraft/config/connectorextras_energy_bridge-common.toml
 /minecraft/config/create-client.toml
 /minecraft/config/create-common.toml
 /minecraft/config/create-server.toml
@@ -92,6 +98,7 @@
 /minecraft/config/lambdynlights.toml
 /minecraft/config/lithium.properties
 /minecraft/config/logbegone.json
+/minecraft/config/mcqoy.toml
 /minecraft/config/midnightlib.json
 /minecraft/config/modelfix-client.toml
 /minecraft/config/modernfix-common.toml
@@ -110,6 +117,7 @@
 /minecraft/config/sodium-fingerprint.json
 /minecraft/config/sodium-mixins.properties
 /minecraft/config/sodium-options.json
+/minecraft/config/surveyor.toml
 /minecraft/config/transition.json
 /minecraft/config/travelersbackpack-client.toml
 /minecraft/config/travelersbackpack-common.toml
@@ -119,3 +127,4 @@
 #/minecraft/config/waystones-common.toml
 /minecraft/config/xaerohud.txt
 /minecraft/config/xaeropatreon.txt
+/minecraft/config/yacl.json5
