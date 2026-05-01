@@ -3,6 +3,7 @@
 
 # General Minecraft Stuff by Folder
 /minecraft/.mixin.out
+/minecraft/.sable
 /minecraft/coremods
 /minecraft/crash-reports
 /minecraft/data
@@ -20,6 +21,7 @@
 
 # Other Minecraft Stuff
 /minecraft/options.txt
+/minecraft/ponders_watched.json
 /minecraft/usercache.json
 /minecraft/usernamecache.json
 
@@ -51,6 +53,7 @@
 /minecraft/config/voicechat
 /minecraft/config/xaero
 
+/minecraft/config/aeronautics-server.toml
 /minecraft/config/ambientsounds-client.json
 /minecraft/config/antique-atlas.toml
 /minecraft/config/appleskin-client.toml
@@ -66,7 +69,9 @@
 /minecraft/config/connectorextras_energy_bridge-common.toml
 /minecraft/config/copycats-client.toml
 /minecraft/config/copycats-common.toml
+/minecraft/config/copycats-server.toml
 /minecraft/config/create_connected-common.toml
+/minecraft/config/create_connected-server.toml
 /minecraft/config/create_new_age-client.toml
 /minecraft/config/create_new_age-common.toml
 /minecraft/config/create-client.toml
@@ -74,6 +79,7 @@
 /minecraft/config/create-server.toml
 /minecraft/config/createaddition-common.toml
 /minecraft/config/createbigcannons-client.toml
+/minecraft/config/createbigcannons-server.toml
 /minecraft/config/createcasing-common.toml
 /minecraft/config/creativecore-client.json
 /minecraft/config/creativecore.json
@@ -82,7 +88,9 @@
 /minecraft/config/curios-common.toml
 /minecraft/config/curios-server.toml
 /minecraft/config/defaultoptions-common.toml
+/minecraft/config/dndecor-server.toml
 /minecraft/config/dndesires-client.toml
+/minecraft/config/dndesires-server.toml
 /minecraft/config/dynamiccrosshair.json5
 /minecraft/config/enchdesc.json
 /minecraft/config/entity_model_features.json
@@ -120,13 +128,17 @@
 /minecraft/config/neoforge-common.toml
 /minecraft/config/neoforge-server.toml
 /minecraft/config/notenoughanimations.json
+/minecraft/config/offroad-server.toml
 /minecraft/config/ponder-client.toml
 /minecraft/config/puzzle.json
 /minecraft/config/railways-client.toml
 /minecraft/config/railways-common.toml
+/minecraft/config/railways-server.toml
+/minecraft/config/ritchiesprojectilelib-server.toml
 /minecraft/config/sable-client.toml
 /minecraft/config/sable-common.toml
 /minecraft/config/simulated-client.toml
+/minecraft/config/simulated-server.toml
 /minecraft/config/skinlayers.json
 /minecraft/config/sodium-extra-options.json
 /minecraft/config/sodium-extra.properties
@@ -135,6 +147,7 @@
 /minecraft/config/sodium-options.json
 /minecraft/config/surveyor.toml
 /minecraft/config/tfmg-common.toml
+/minecraft/config/tfmg-server.toml
 /minecraft/config/transition.json
 /minecraft/config/travelersbackpack-client.toml
 /minecraft/config/travelersbackpack-common.toml
