@@ -64,6 +64,7 @@
 /minecraft/config/carryon-common.toml
 /minecraft/config/chat_heads.json5
 /minecraft/config/chatanimation.json
+/minecraft/config/compactmachines-client.toml
 /minecraft/config/configured-client.properties
 /minecraft/config/connector.json
 /minecraft/config/connectorextras_energy_bridge-common.toml
@@ -158,3 +159,4 @@
 /minecraft/config/xaerohud.txt
 /minecraft/config/xaeropatreon.txt
 /minecraft/config/yacl.json5
+/minecraft/config/yarl-client.toml
