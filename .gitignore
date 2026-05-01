@@ -31,6 +31,8 @@
 
 #/minecraft/config/fancymenu
 /minecraft/config/fancymenu/layout_editor
+/minecraft/config/fancymenu/ui_themes
+/minecraft/config/fancymenu/options.txt
 
 /minecraft/config/jade
 
