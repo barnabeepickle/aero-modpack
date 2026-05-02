@@ -68,6 +68,7 @@
 /minecraft/config/configured-client.properties
 /minecraft/config/connector.json
 /minecraft/config/connectorextras_energy_bridge-common.toml
+/minecraft/config/continuity.json
 /minecraft/config/copycats-client.toml
 /minecraft/config/copycats-common.toml
 /minecraft/config/copycats-server.toml
@@ -108,6 +109,7 @@
 /minecraft/config/ftblibrary-client.snbt
 /minecraft/config/ftbquests-client.snbt
 /minecraft/config/ftbteams-server.snbt
+/minecraft/config/hotbath-common.toml
 /minecraft/config/immediatelyfast.json
 /minecraft/config/iris-excluded.json
 /minecraft/config/iris.properties
@@ -138,6 +140,8 @@
 /minecraft/config/ritchiesprojectilelib-server.toml
 /minecraft/config/sable-client.toml
 /minecraft/config/sable-common.toml
+/minecraft/config/showercore-client.toml
+/minecraft/config/showercore-common.toml
 /minecraft/config/simulated-client.toml
 /minecraft/config/simulated-server.toml
 /minecraft/config/skinlayers.json
