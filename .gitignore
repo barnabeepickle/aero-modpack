@@ -2,6 +2,7 @@
 /instance.cfg
 
 # General Minecraft Stuff by Folder
+/minecraft/.cache
 /minecraft/.mixin.out
 /minecraft/.sable
 /minecraft/coremods
@@ -24,8 +25,12 @@
 /minecraft/ponders_watched.json
 /minecraft/usercache.json
 /minecraft/usernamecache.json
+/minecraft/command_history.txt
+/minecraft/ponders_watched_azimuth.json
 
 # Config
+/minecraft/config/*.bak
+
 /minecraft/config/.puzzle_cache
 /minecraft/config/crosshairs
 #/minecraft/config/defaultoptions
@@ -48,15 +53,23 @@
 
 /minecraft/config/konkrete
 /minecraft/config/particlerain
+/minecraft/config/roughlyenoughitems
 /minecraft/config/sound_physics_remastered
 /minecraft/config/spark
 /minecraft/config/voicechat
+/minecraft/config/worldedit
 /minecraft/config/xaero
 
+/minecraft/config/ae2-client.toml
+/minecraft/config/ae2-common.toml
+/minecraft/config/ae2wtlib-client.toml
+/minecraft/config/ae2wtlib.toml
 /minecraft/config/aeronautics-server.toml
 /minecraft/config/ambientsounds-client.json
 /minecraft/config/antique-atlas.toml
 /minecraft/config/appleskin-client.toml
+/minecraft/config/azimuth-client.toml
+/minecraft/config/azimuth-common.toml
 /minecraft/config/badoptimizations.txt
 /minecraft/config/betteradvancements-client.toml
 /minecraft/config/brandedlogs.json5
@@ -64,6 +77,7 @@
 /minecraft/config/carryon-common.toml
 /minecraft/config/chat_heads.json5
 /minecraft/config/chatanimation.json
+/minecraft/config/chloride-client.toml
 /minecraft/config/compactmachines-client.toml
 /minecraft/config/configured-client.properties
 /minecraft/config/connector.json
@@ -72,17 +86,36 @@
 /minecraft/config/copycats-client.toml
 /minecraft/config/copycats-common.toml
 /minecraft/config/copycats-server.toml
+/minecraft/config/create_central_kitchen-client.toml
+/minecraft/config/create_central_kitchen-common.toml
 /minecraft/config/create_connected-common.toml
 /minecraft/config/create_connected-server.toml
+/minecraft/config/create_dragons_plus-client.toml
+/minecraft/config/create_dragons_plus-common.toml
+/minecraft/config/create_dragons_plus-server.toml
+/minecraft/config/create_dragons_plus-simulated-extension-server.toml
+/minecraft/config/create_enchantment_industry-client.toml
+/minecraft/config/create_enchantment_industry-common.toml
+/minecraft/config/create_enchantment_industry-server.toml
 /minecraft/config/create_new_age-client.toml
 /minecraft/config/create_new_age-common.toml
+/minecraft/config/create_new_age-server.toml
+/minecraft/config/create_radar-client.toml
+/minecraft/config/create_radar-server.toml
 /minecraft/config/create-client.toml
 /minecraft/config/create-common.toml
 /minecraft/config/create-server.toml
 /minecraft/config/createaddition-common.toml
+/minecraft/config/createappliedkinetics-common.toml
 /minecraft/config/createbigcannons-client.toml
 /minecraft/config/createbigcannons-server.toml
 /minecraft/config/createcasing-common.toml
+/minecraft/config/createdieselgenerators-client.toml
+/minecraft/config/createdieselgenerators-common.toml
+/minecraft/config/createdieselgenerators-server.toml
+/minecraft/config/createoreexcavation-common.toml
+/minecraft/config/createoreexcavation-server.toml
+/minecraft/config/createtweakedcontrollers-client.toml
 /minecraft/config/creativecore-client.json
 /minecraft/config/creativecore.json
 /minecraft/config/cubes_without_borders.json
@@ -98,6 +131,7 @@
 /minecraft/config/entity_model_features.json
 /minecraft/config/entity_texture_features.json
 /minecraft/config/entityculling.json
+/minecraft/config/escalated-server.toml
 /minecraft/config/etf_warnings.json
 /minecraft/config/ferritecore-mixin.toml
 /minecraft/config/flywheel-client.toml
@@ -109,14 +143,17 @@
 /minecraft/config/ftblibrary-client.snbt
 /minecraft/config/ftbquests-client.snbt
 /minecraft/config/ftbteams-server.snbt
+/minecraft/config/guideme.toml
 /minecraft/config/hotbath-common.toml
 /minecraft/config/immediatelyfast.json
 /minecraft/config/iris-excluded.json
 /minecraft/config/iris.properties
+/minecraft/config/jea.json5
 /minecraft/config/jearchaeology-common.toml
 /minecraft/config/jeed-client.toml
 /minecraft/config/jei-server.toml
 /minecraft/config/jeresources-common.toml
+/minecraft/config/justenoughbreeding-offsets.json
 /minecraft/config/lambdynlights.toml
 /minecraft/config/lithium.properties
 /minecraft/config/logbegone.json
@@ -131,6 +168,9 @@
 /minecraft/config/neoforge-common.toml
 /minecraft/config/neoforge-server.toml
 /minecraft/config/notenoughanimations.json
+/minecraft/config/numismatics-client.toml
+/minecraft/config/numismatics-common.toml
+/minecraft/config/numismatics-server.toml
 /minecraft/config/offroad-server.toml
 /minecraft/config/ponder-client.toml
 /minecraft/config/puzzle.json
@@ -140,6 +180,7 @@
 /minecraft/config/ritchiesprojectilelib-server.toml
 /minecraft/config/sable-client.toml
 /minecraft/config/sable-common.toml
+/minecraft/config/sable-server.toml
 /minecraft/config/showercore-client.toml
 /minecraft/config/showercore-common.toml
 /minecraft/config/simulated-client.toml
@@ -150,6 +191,7 @@
 /minecraft/config/sodium-fingerprint.json
 /minecraft/config/sodium-mixins.properties
 /minecraft/config/sodium-options.json
+/minecraft/config/sodium-shadowy-path-blocks-options.json
 /minecraft/config/surveyor.toml
 /minecraft/config/tfmg-common.toml
 /minecraft/config/tfmg-server.toml
@@ -158,6 +200,7 @@
 /minecraft/config/travelersbackpack-common.toml
 /minecraft/config/travelersbackpack-server.toml
 /minecraft/config/trender.json
+/minecraft/config/waterconfig.toml
 /minecraft/config/waveycapes.json
 #/minecraft/config/waystones-common.toml
 /minecraft/config/xaerohud.txt
