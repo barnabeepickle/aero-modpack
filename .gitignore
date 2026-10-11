@@ -17,6 +17,7 @@
 /minecraft/saves
 /minecraft/screenshots
 /minecraft/server-resource-packs
+/minecraft/shaderpacks
 /minecraft/xaero
 /minecraft/XaeroWaypoints_BACKUP240807
 
@@ -159,6 +160,7 @@
 /minecraft/config/logbegone.json
 /minecraft/config/mcqoy.toml
 /minecraft/config/midnightlib.json
+/minecraft/config/mod_menu-client.toml
 /minecraft/config/modelfix-client.toml
 /minecraft/config/modernfix-common.toml
 #/minecraft/config/modernfix-mixins.properties
@@ -192,6 +194,10 @@
 /minecraft/config/sodium-mixins.properties
 /minecraft/config/sodium-options.json
 /minecraft/config/sodium-shadowy-path-blocks-options.json
+/minecraft/config/sophisticatedbackpacks-common.toml
+/minecraft/config/sophisticatedbackpacks-server.toml
+/minecraft/config/sophisticatedcore-client.toml
+/minecraft/config/sophisticatedcore-common.toml
 /minecraft/config/surveyor.toml
 /minecraft/config/tfmg-common.toml
 /minecraft/config/tfmg-server.toml
