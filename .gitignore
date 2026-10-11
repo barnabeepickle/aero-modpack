@@ -65,7 +65,14 @@
 /minecraft/config/sound_physics_remastered
 /minecraft/config/spark
 /minecraft/config/titanium
-/minecraft/config/voicechat
+
+#/minecraft/config/voicechat
+/minecraft/config/voicechat/category-volumes.properties
+/minecraft/config/voicechat/player-volumes.properties
+/minecraft/config/voicechat/translations.properties
+/minecraft/config/voicechat/username-cache.json
+/minecraft/config/voicechat/voicechat-client.properties
+
 /minecraft/config/WildfireGender
 /minecraft/config/worldedit
 /minecraft/config/xaero
