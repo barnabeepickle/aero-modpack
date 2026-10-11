@@ -1,0 +1,18 @@
+filename = 'roomfortwo-neoforge-1.21.1-0.3.0.jar'
+name = 'Room For Two'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.3.0'
+
+[download]
+hash = '81cb8fa7a099af75339f05c562fea677479329d8cc3c449a231d564c90931d7bf10727af118966512bf2c114995be19a9cb41d0db008f0535eadb7892ad6fb89'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YZlvzIFq/versions/nVyx08tS/roomfortwo-neoforge-1.21.1-0.3.0.jar'
+
+[update.modrinth]
+mod-id = 'YZlvzIFq'
+version = 'nVyx08tS'

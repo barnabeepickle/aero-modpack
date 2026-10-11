@@ -1,0 +1,18 @@
+filename = 'colorfulpipes-2.4.4.jar'
+name = 'Create: Colorful Pipes'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.4.4'
+
+[download]
+hash = '21aac4f370c2c32f061948c0725ca46a9426b415fd45d32fca2d593ca18ae1d34bb30f91115fd3501d942e405ee002e2a9a2173ff29bd54c226603356fb0c5d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Bug7e6Xo/versions/UfbDsBTb/colorfulpipes-2.4.4.jar'
+
+[update.modrinth]
+mod-id = 'Bug7e6Xo'
+version = 'UfbDsBTb'
