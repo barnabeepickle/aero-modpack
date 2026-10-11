@@ -28,6 +28,7 @@
 /minecraft/usernamecache.json
 /minecraft/command_history.txt
 /minecraft/ponders_watched_azimuth.json
+/minecraft/servers.dat
 
 # Config
 /minecraft/config/*.bak
@@ -136,7 +137,7 @@
 /minecraft/config/curios-client.toml
 /minecraft/config/curios-common.toml
 /minecraft/config/curios-server.toml
-/minecraft/config/defaultoptions-common.toml
+#/minecraft/config/defaultoptions-common.toml
 /minecraft/config/dndecor-server.toml
 /minecraft/config/dndesires-client.toml
 /minecraft/config/dndesires-server.toml
