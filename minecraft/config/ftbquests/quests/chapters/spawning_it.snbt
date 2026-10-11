@@ -15,6 +15,10 @@
 	quest_links: [ ]
 	quests: [{
 		id: "521682ACABC0E60A"
+		tasks: [{
+			id: "29B8548F92AB72DC"
+			type: "checkmark"
+		}]
 		x: 0.0d
 		y: -3.5d
 	}]
