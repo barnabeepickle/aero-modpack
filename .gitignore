@@ -42,6 +42,9 @@
 /minecraft/config/fancymenu/ui_themes
 /minecraft/config/fancymenu/options.txt
 
+/minecraft/config/fzzy_config
+/minecraft/config/immersive_paintings
+
 /minecraft/config/jade
 
 /minecraft/config/jei/world
@@ -79,6 +82,8 @@
 /minecraft/config/chat_heads.json5
 /minecraft/config/chatanimation.json
 /minecraft/config/chloride-client.toml
+/minecraft/config/colorfulpipes-common.toml
+/minecraft/config/colorfulpipes-server.toml
 /minecraft/config/compactmachines-client.toml
 /minecraft/config/configured-client.properties
 /minecraft/config/connector.json
@@ -103,6 +108,7 @@
 /minecraft/config/create_new_age-server.toml
 /minecraft/config/create_radar-client.toml
 /minecraft/config/create_radar-server.toml
+/minecraft/config/create_structures_arise-server.toml
 /minecraft/config/create-client.toml
 /minecraft/config/create-common.toml
 /minecraft/config/create-server.toml
@@ -128,8 +134,10 @@
 /minecraft/config/dndesires-client.toml
 /minecraft/config/dndesires-server.toml
 /minecraft/config/dynamiccrosshair.json5
+/minecraft/config/emf_compat.json
 /minecraft/config/enchdesc.json
 /minecraft/config/entity_model_features.json
+/minecraft/config/entity_sound_features.json
 /minecraft/config/entity_texture_features.json
 /minecraft/config/entityculling.json
 /minecraft/config/escalated-server.toml
