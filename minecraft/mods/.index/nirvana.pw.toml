@@ -1,0 +1,18 @@
+filename = 'nirvana-forge-2.0.11.jar'
+name = 'Nirvana'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Neoforge 2.0.11'
+
+[download]
+hash = '95915c4f41ff1b7880155fe383d37b0e296be202'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8164363
+project-id = 1278909
