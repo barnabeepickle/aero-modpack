@@ -33,6 +33,7 @@
 /minecraft/config/*.bak
 
 /minecraft/config/.puzzle_cache
+/minecraft/config/almostunified
 /minecraft/config/crosshairs
 #/minecraft/config/defaultoptions
 /minecraft/config/fabric
@@ -45,6 +46,7 @@
 /minecraft/config/fzzy_config
 /minecraft/config/immersive_paintings
 
+/minecraft/config/industrialforegoing
 /minecraft/config/jade
 
 /minecraft/config/jei/world
@@ -55,12 +57,15 @@
 /minecraft/config/jei/jei-mod-id-format.ini
 /minecraft/config/jei/recipe-category-sort-order.ini
 
+/minecraft/config/Mekanism
 /minecraft/config/konkrete
 /minecraft/config/particlerain
 /minecraft/config/roughlyenoughitems
 /minecraft/config/sound_physics_remastered
 /minecraft/config/spark
+/minecraft/config/titanium
 /minecraft/config/voicechat
+/minecraft/config/WildfireGender
 /minecraft/config/worldedit
 /minecraft/config/xaero
 
@@ -152,9 +157,13 @@
 /minecraft/config/ftblibrary-client.snbt
 /minecraft/config/ftbquests-client.snbt
 /minecraft/config/ftbteams-server.snbt
+/minecraft/config/galena_hats.json
 /minecraft/config/guideme.toml
 /minecraft/config/hotbath-common.toml
 /minecraft/config/immediatelyfast.json
+/minecraft/config/immersiveengineering-client.toml
+/minecraft/config/immersiveengineering-server.toml
+/minecraft/config/immersiveengineering-startup.toml
 /minecraft/config/iris-excluded.json
 /minecraft/config/iris.properties
 /minecraft/config/jea.json5
@@ -177,6 +186,8 @@
 /minecraft/config/neoforge-client.toml
 /minecraft/config/neoforge-common.toml
 /minecraft/config/neoforge-server.toml
+/minecraft/config/nirvana-client.toml
+/minecraft/config/nirvana-common.toml
 /minecraft/config/notenoughanimations.json
 /minecraft/config/numismatics-client.toml
 /minecraft/config/numismatics-common.toml
