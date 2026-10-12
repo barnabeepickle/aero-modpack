@@ -1,0 +1,25 @@
+filename = 'light-overlay-12.0.0-neoforge.jar'
+name = 'Light Overlay (Rift/Forge/Fabric)'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21-Snapshot', '1.21', '1.21.1-Snapshot', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge 1.21] v12.0.0'
+
+[download]
+hash = 'f15a3b88c926d2dc9d06c2b876cd89287791773c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5553811
+project-id = 325492
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

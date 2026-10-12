@@ -23,6 +23,7 @@
 /minecraft/shaderpacks
 /minecraft/xaero
 /minecraft/XaeroWaypoints_BACKUP240807
+/minecraft/resourcepacks
 
 # Other Minecraft Stuff
 /minecraft/options.txt
@@ -95,6 +96,7 @@
 /minecraft/config/badoptimizations.txt
 /minecraft/config/betteradvancements-client.toml
 /minecraft/config/brandedlogs.json5
+/minecraft/config/betterpingdisplay-client.toml
 /minecraft/config/c2me.toml
 /minecraft/config/carryon-client.toml
 /minecraft/config/carryon-common.toml
@@ -256,3 +258,4 @@
 /minecraft/config/yacl.json5
 /minecraft/config/yarl-client.toml
 /minecraft/config/zeta-common.toml
+
