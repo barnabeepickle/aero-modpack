@@ -210,9 +210,12 @@
 /minecraft/config/offroad-server.toml
 /minecraft/config/ponder-client.toml
 /minecraft/config/puzzle.json
+/minecraft/config/quark-common.toml
 /minecraft/config/railways-client.toml
 /minecraft/config/railways-common.toml
 /minecraft/config/railways-server.toml
+/minecraft/config/refurbished_furniture.client.toml
+/minecraft/config/refurbished_furniture.server.toml
 /minecraft/config/ritchiesprojectilelib-server.toml
 /minecraft/config/sable-client.toml
 /minecraft/config/sable-common.toml
@@ -251,3 +254,4 @@
 /minecraft/config/xaeropatreon.txt
 /minecraft/config/yacl.json5
 /minecraft/config/yarl-client.toml
+/minecraft/config/zeta-common.toml
