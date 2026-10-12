@@ -3,8 +3,11 @@
 
 # General Minecraft Stuff by Folder
 /minecraft/.cache
+/minecraft/cache
 /minecraft/.mixin.out
 /minecraft/.sable
+/minecraft/.voxy
+/minecraft/.vss
 /minecraft/coremods
 /minecraft/crash-reports
 /minecraft/data
@@ -29,6 +32,7 @@
 /minecraft/command_history.txt
 /minecraft/ponders_watched_azimuth.json
 /minecraft/servers.dat
+/minecraft/servers.dat_old
 
 # Config
 /minecraft/config/*.bak
@@ -90,6 +94,7 @@
 /minecraft/config/badoptimizations.txt
 /minecraft/config/betteradvancements-client.toml
 /minecraft/config/brandedlogs.json5
+/minecraft/config/c2me.toml
 /minecraft/config/carryon-client.toml
 /minecraft/config/carryon-common.toml
 /minecraft/config/chat_heads.json5
@@ -227,6 +232,7 @@
 /minecraft/config/sophisticatedbackpacks-server.toml
 /minecraft/config/sophisticatedcore-client.toml
 /minecraft/config/sophisticatedcore-common.toml
+/minecraft/config/ssrd-common.toml
 /minecraft/config/surveyor.toml
 /minecraft/config/tfmg-common.toml
 /minecraft/config/tfmg-server.toml
@@ -235,6 +241,9 @@
 /minecraft/config/travelersbackpack-common.toml
 /minecraft/config/travelersbackpack-server.toml
 /minecraft/config/trender.json
+/minecraft/config/voxy-config.json
+/minecraft/config/vss-client-config.yaml
+/minecraft/config/vss-server-config.yaml
 /minecraft/config/waterconfig.toml
 /minecraft/config/waveycapes.json
 #/minecraft/config/waystones-common.toml
