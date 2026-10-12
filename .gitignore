@@ -33,6 +33,7 @@
 /minecraft/ponders_watched_azimuth.json
 /minecraft/servers.dat
 /minecraft/servers.dat_old
+/minecraft/.qmenu_opened.marker
 
 # Config
 /minecraft/config/*.bak
@@ -86,7 +87,7 @@
 /minecraft/config/ae2wtlib-client.toml
 /minecraft/config/ae2wtlib.toml
 /minecraft/config/aeronautics-server.toml
-/minecraft/config/ambientsounds-client.json
+#/minecraft/config/ambientsounds-client.json
 /minecraft/config/antique-atlas.toml
 /minecraft/config/appleskin-client.toml
 /minecraft/config/azimuth-client.toml
