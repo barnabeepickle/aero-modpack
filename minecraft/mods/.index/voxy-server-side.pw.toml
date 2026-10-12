@@ -1,18 +1,18 @@
 filename = 'voxy-server-side-neoforge.jar'
 name = 'Voxy Server Side'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.17.0'
+x-prismlauncher-version-number = '0.18.0'
 
 [download]
-hash = 'eca81f1246e323216edfad63f314afff77b1f346abc46067b0c3da105bc9f7db50e7baa3134565e0020ec4c9639b1327fb39dd48760d61cb8979108cddc55b0b'
+hash = 'ed761405259541123fd03e070effe410158dc084f5500887b072065509ea433f84399a85057d586eef5c4676bcb81c708bad2957b66dd4bcf1ca9489bf8e9146'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/84zcagOb/versions/xwl6bm8e/voxy-server-side-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/84zcagOb/versions/K6PaUB1y/voxy-server-side-neoforge.jar'
 
 [update.modrinth]
 mod-id = '84zcagOb'
-version = 'xwl6bm8e'
+version = 'K6PaUB1y'
