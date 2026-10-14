@@ -56,21 +56,25 @@
 /minecraft/config/industrialforegoing
 /minecraft/config/jade
 
-/minecraft/config/jei/world
-/minecraft/config/jei/blacklist.json
-/minecraft/config/jei/ingredient-list-mod-sort-order.ini
-/minecraft/config/jei/ingredient-list-type-sort-order.ini
-/minecraft/config/jei/jei-debug.ini
-/minecraft/config/jei/jei-mod-id-format.ini
-/minecraft/config/jei/recipe-category-sort-order.ini
+#/minecraft/config/jei/world
+#/minecraft/config/jei/blacklist.json
+#/minecraft/config/jei/ingredient-list-mod-sort-order.ini
+#/minecraft/config/jei/ingredient-list-type-sort-order.ini
+#/minecraft/config/jei/jei-debug.ini
+#/minecraft/config/jei/jei-mod-id-format.ini
+#/minecraft/config/jei/recipe-category-sort-order.ini
+#/minecraft/config/jei/client/default
+/minecraft/config/jei
 
 /minecraft/config/Mekanism
+/minecraft/config/mezz_config
 /minecraft/config/konkrete
 /minecraft/config/particlerain
 /minecraft/config/roughlyenoughitems
 /minecraft/config/sound_physics_remastered
 /minecraft/config/spark
 /minecraft/config/titanium
+/minecraft/config/universalenchantmentinfo
 
 #/minecraft/config/voicechat
 /minecraft/config/voicechat/category-volumes.properties
@@ -143,6 +147,7 @@
 /minecraft/config/createdieselgenerators-client.toml
 /minecraft/config/createdieselgenerators-common.toml
 /minecraft/config/createdieselgenerators-server.toml
+/minecraft/config/createjeicompat-client.toml
 /minecraft/config/createoreexcavation-common.toml
 /minecraft/config/createoreexcavation-server.toml
 /minecraft/config/createtweakedcontrollers-client.toml
@@ -187,7 +192,10 @@
 /minecraft/config/jea.json5
 /minecraft/config/jearchaeology-common.toml
 /minecraft/config/jeed-client.toml
+/minecraft/config/jei_integration_reborn-client.toml
 /minecraft/config/jei-server.toml
+/minecraft/config/jeioptimizer-client.toml
+/minecraft/config/jeiworldgen-client.json
 /minecraft/config/jeresources-common.toml
 /minecraft/config/justenoughbreeding-offsets.json
 /minecraft/config/lambdynlights.toml
@@ -234,6 +242,7 @@
 /minecraft/config/sodium-mixins.properties
 /minecraft/config/sodium-options.json
 /minecraft/config/sodium-shadowy-path-blocks-options.json
+/minecraft/config/sophisticated_jei_index-common.toml
 /minecraft/config/sophisticatedbackpacks-common.toml
 /minecraft/config/sophisticatedbackpacks-server.toml
 /minecraft/config/sophisticatedcore-client.toml
