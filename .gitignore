@@ -131,7 +131,7 @@
 /minecraft/config/create_new_age-server.toml
 /minecraft/config/create_radar-client.toml
 /minecraft/config/create_radar-server.toml
-/minecraft/config/create_structures_arise-server.toml
+#/minecraft/config/create_structures_arise-server.toml
 /minecraft/config/create-client.toml
 /minecraft/config/create-common.toml
 /minecraft/config/create-server.toml
