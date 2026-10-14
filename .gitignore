@@ -196,6 +196,8 @@
 /minecraft/config/jei-server.toml
 /minecraft/config/jeioptimizer-client.toml
 /minecraft/config/jeiworldgen-client.json
+/minecraft/config/jeiworldgen-generation-cache.dat
+/minecraft/config/jeiworldgen-loot-cache.dat
 /minecraft/config/jeresources-common.toml
 /minecraft/config/justenoughbreeding-offsets.json
 /minecraft/config/lambdynlights.toml
@@ -267,4 +269,3 @@
 /minecraft/config/yacl.json5
 /minecraft/config/yarl-client.toml
 /minecraft/config/zeta-common.toml
-
