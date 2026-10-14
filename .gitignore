@@ -221,7 +221,7 @@
 /minecraft/config/offroad-server.toml
 /minecraft/config/ponder-client.toml
 /minecraft/config/puzzle.json
-/minecraft/config/quark-common.toml
+#/minecraft/config/quark-common.toml
 /minecraft/config/railways-client.toml
 /minecraft/config/railways-common.toml
 /minecraft/config/railways-server.toml
