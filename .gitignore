@@ -157,7 +157,7 @@
 #/minecraft/config/create_structures_arise-server.toml
 /minecraft/config/create-client.toml
 /minecraft/config/create-common.toml
-/minecraft/config/create-server.toml
+#/minecraft/config/create-server.toml
 /minecraft/config/createaddition-common.toml
 /minecraft/config/createappliedkinetics-common.toml
 /minecraft/config/createbigcannons-client.toml
