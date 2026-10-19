@@ -272,7 +272,7 @@
 /minecraft/config/sable-client.toml
 /minecraft/config/sable-common.toml
 /minecraft/config/sable-server.toml
-/minecraft/config/securitycraft-client.toml
+#/minecraft/config/securitycraft-client.toml
 /minecraft/config/showercore-client.toml
 /minecraft/config/showercore-common.toml
 /minecraft/config/simpleradio-client.toml
