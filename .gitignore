@@ -38,6 +38,7 @@
 /minecraft/servers.dat_old
 /minecraft/.qmenu_opened.marker
 /minecraft/patchouli_data.json
+/minecraft/fabricloader.log
 
 # Config
 /minecraft/config/*.bak
@@ -257,6 +258,7 @@
 /minecraft/config/numismatics-common.toml
 /minecraft/config/numismatics-server.toml
 /minecraft/config/offroad-server.toml
+/minecraft/config/packetfixer.properties
 /minecraft/config/patchouli-client.toml
 /minecraft/config/ponder-client.toml
 /minecraft/config/powah.json5
