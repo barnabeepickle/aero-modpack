@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","continuity:default","continuity:glass_pane_culling_fix","file/Dramatic Skys Demo 1.5.3.36.2.zip","file/Emissive Lanterns v1.0.zip","file/Glowing-OF_v0.5.0-mc1.21.zip","file/Thickly Be-Beveled Buttons - v1.0.4.0.zip","file/VanillaTweaks_r481722_MC1.21.x.zip","file/Vanilla Tweaks Smaller Utilities.zip","file/Vanilla Tweaks Transparent Pumpkin.zip","file/Vanilla Tweaks Unique Axolotl Buckets.zip","file/VanillaTweaks_HD_Shield_Banners_1.21.11.zip","file/LowOnFire v26.2§8.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","continuity:default","continuity:glass_pane_culling_fix","file/Dramatic Skys Demo 1.5.3.36.2.zip","file/Emissive Lanterns v1.0.zip","file/Glowing-OF_v0.5.0-mc1.21.zip","file/Thickly Be-Beveled Buttons - v1.0.4.0.zip","file/VanillaTweaks_r481722_MC1.21.x.zip","file/Vanilla Tweaks Smaller Utilities.zip","file/Vanilla Tweaks Transparent Pumpkin.zip","file/Vanilla Tweaks Unique Axolotl Buckets.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -131,6 +131,7 @@ key_zume.zoom:key.keyboard.c
 key_zume.zoom_in:key.keyboard.unknown
 key_zume.zoom_out:key.keyboard.unknown
 key_key.industrialforegoing.backpack.desc:key.keyboard.unknown
+key_key.botania_corporea_request:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.unknown
 key_create_tweaked_controllers.keybind.mouse_focus:key.keyboard.unknown
 key_create_tweaked_controllers.keybind.mouse_reset:key.keyboard.unknown
@@ -143,7 +144,7 @@ key_key.mekanism.chest_mode:key.keyboard.unknown
 key_key.mekanism.legs_mode:key.keyboard.unknown
 key_key.mekanism.feet_mode:key.keyboard.unknown
 key_key.mekanism.details:key.keyboard.left.shift
-key_key.mekanism.description:key.keyboard.n:SHIFT
+key_key.mekanism.description:key.keyboard.left.shift
 key_key.mekanism.module_tweaker:key.keyboard.unknown
 key_key.mekanism.key_boost:key.keyboard.left.control
 key_key.mekanism.key_hud:key.keyboard.unknown
@@ -157,6 +158,7 @@ key_key.travelersbackpack.toggle_upgrade_2:key.keyboard.unknown
 key_key.travelersbackpack.toggle_upgrade_3:key.keyboard.unknown
 key_key.mapping.compactmachines.exit_room:key.keyboard.unknown
 key_key.mapping.compactmachines.open_upgrade_screen:key.keyboard.unknown
+key_key.cyberspace.cyberspace_leave_keybind:key.keyboard.b
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.v
@@ -171,6 +173,7 @@ key_key.wildfire_gender.gender_menu:key.keyboard.unknown
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
 key_key.immersiveengineering.railgunZoom:key.keyboard.unknown
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
+key_key.estrogen.dash:key.keyboard.x
 key_key.ponder.ponder:key.keyboard.w
 key_gui.xaero_minimap_settings:key.keyboard.keypad.9
 key_gui.xaero_minimap_server_profiles:key.keyboard.unknown
@@ -195,6 +198,11 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
+key_key.securitycraft.cameraZoomIn:key.keyboard.equal
+key_key.securitycraft.cameraZoomOut:key.keyboard.minus
+key_key.securitycraft.cameraEmitRedstone:key.keyboard.unknown
+key_key.securitycraft.cameraActivateNightVision:key.keyboard.unknown
+key_key.securitycraft.setDefaultViewingDirection:key.keyboard.backspace
 key_key.jei.toggleOverlay:key.keyboard.unknown
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.previousPage:key.keyboard.unknown
@@ -232,6 +240,8 @@ key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
+key_key.ad_astra.toggle_suit_flight:key.keyboard.unknown
+key_key.ad_astra.open_radio:key.keyboard.unknown
 key_key.sophisticatedcore.sort:key.keyboard.unknown
 key_key.sophisticatedcore.transfer_to_storage:key.keyboard.unknown
 key_key.sophisticatedcore.transfer_to_inventory:key.keyboard.unknown
@@ -242,6 +252,9 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.unknown
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
+key_simulated.keyinfo.rotate_mode:key.keyboard.tab
+key_simulated.keyinfo.scroll_up:key.keyboard.unknown
+key_simulated.keyinfo.scroll_down:key.keyboard.unknown
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.period
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
@@ -250,9 +263,6 @@ key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
-key_simulated.keyinfo.rotate_mode:key.keyboard.tab
-key_simulated.keyinfo.scroll_up:key.keyboard.unknown
-key_simulated.keyinfo.scroll_down:key.keyboard.unknown
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.carry.desc:key.keyboard.unknown
@@ -309,6 +319,8 @@ key_framedblocks.key.update_cull:key.keyboard.unknown
 key_framedblocks.key.wipe_cache:key.keyboard.unknown
 key_dndesires.keyinfo.saw_active:key.keyboard.left.alt
 key_dndesires.keyinfo.drill_active:key.keyboard.left.alt
+key_key.modernfoundry.helmet_interact:key.keyboard.unknown
+key_key.modernfoundry.leggings_interact:key.keyboard.unknown
 key_key.configured.open_mod_list:key.keyboard.unknown
 key_key.guideme.guide:key.keyboard.unknown
 key_tfmg.keyinfo.transmission_shift_up:key.keyboard.unknown
@@ -323,7 +335,8 @@ key_key.jade.show_uses:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_details:key.keyboard.unknown
 key_key.ae2.mouse_wheel_item_modifier:key.keyboard.left.shift
-key_key.ae2.part_placement_opposite:key.keyboard.left.control
+key_key.ae2.part_placement_opposite:key.keyboard.left.shift
+key_key.ae2.wireless_exp_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_pattern_access_terminal:key.keyboard.unknown
 key_key.ae2.ae2wtlib_restock:key.keyboard.unknown
 key_key.ae2.ae2wtlib_magnet:key.keyboard.unknown
@@ -333,8 +346,12 @@ key_key.ae2.portable_fluid_cell:key.keyboard.unknown
 key_key.ae2.wireless_pattern_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.jade_trades.show_villager_poi:key.keyboard.unknown
+key_key.extendedae.viewpattern:key.keyboard.p
+key_key.extendedae.set_amount:key.mouse.middle
+key_key.enderio.travel_staff:key.keyboard.unknown
+key_key.enderio.toggle_magnet:key.keyboard.unknown
 key_quark.keybind.autorun:key.keyboard.unknown
-key_quark.keybind.back:key.mouse.4
+key_quark.keybind.back:key.keyboard.unknown
 key_quark.keybind.camera_mode:key.keyboard.f12
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
@@ -366,6 +383,8 @@ key_quark.keybind.narrator_full_readout:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.unknown
 key_create_radar.key.binocular.use:key.keyboard.unknown
 key_create_radar.key.binocular.fire:key.keyboard.unknown
+key_key.enderio_conduit_opt.toggle_auto_insert:key.keyboard.unknown
+key_key.simpleradio.use_handheld:key.keyboard.b
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.5049668874172185
 soundCategory_music:0.0
