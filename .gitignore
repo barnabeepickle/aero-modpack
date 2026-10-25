@@ -109,6 +109,7 @@
 #/minecraft/config/ambientsounds-client.json
 /minecraft/config/antique-atlas.toml
 /minecraft/config/appleskin-client.toml
+/minecraft/config/authme.jsonc
 /minecraft/config/azimuth-client.toml
 /minecraft/config/azimuth-common.toml
 /minecraft/config/badoptimizations.txt
