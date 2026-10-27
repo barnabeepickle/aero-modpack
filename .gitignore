@@ -178,6 +178,7 @@
 /minecraft/config/curios-client.toml
 /minecraft/config/curios-common.toml
 /minecraft/config/curios-server.toml
+/minecraft/config/cwb.json
 #/minecraft/config/defaultoptions-common.toml
 /minecraft/config/dndecor-server.toml
 /minecraft/config/dndesires-client.toml
