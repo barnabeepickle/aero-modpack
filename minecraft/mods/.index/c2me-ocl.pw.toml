@@ -1,20 +1,20 @@
-filename = 'c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.123.jar'
+filename = 'c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.124.jar'
 name = 'C2ME OpenCL Acceleration Module'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'alpha'
-x-prismlauncher-version-number = '0.4.0-alpha.0.123+1.21.1'
+x-prismlauncher-version-number = '0.4.0-alpha.0.124+1.21.1'
 
 [download]
-hash = '46d526bee3473dcd2f36ee73569b80910489e5e0896ace635732329c1726ea768fcbed0dcd5a5468bcb95562b48a0fcb6d5e1262f57716b7cd3327a3cdcc2341'
+hash = '9a84bcb7f17219afa3b8047eec6cfba7c4007bcc9414612758539afdd6623466080e33e197545156c8383cd5434489f9119c001fc4d59938e5e9b04d75ea806c'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/qtPMklut/versions/7rX3dlFf/c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.123.jar'
+url = 'https://cdn.modrinth.com/data/qtPMklut/versions/4m9iAiSY/c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.124.jar'
 
 [update.modrinth]
 mod-id = 'qtPMklut'
-version = '7rX3dlFf'
+version = '4m9iAiSY'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'COlSi5iR'

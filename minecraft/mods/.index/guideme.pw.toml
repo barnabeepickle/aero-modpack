@@ -1,18 +1,18 @@
-filename = 'guideme-21.1.19.jar'
+filename = 'guideme-21.1.21.jar'
 name = 'GuideME'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '21.1.19'
+x-prismlauncher-version-number = '21.1.21'
 
 [download]
-hash = '4dfa132e5cfd69a86c958867067f1c5ab39bb69ae35b2a62c24bb9924e9c688f1a4930ab75d335b22378d9f98cd7fceae8d030812b8f90c9aa282de8ea129f5a'
+hash = 'ec34f1ac05518ef05399a9a516837f96546e19a75b2b6150d17e01eba7e83b7ce1ac2aac8a2066c0be6e24ecab5b25b16a48939736be700cad8b383388d8b720'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Ck4E7v7R/versions/hFpGwC6q/guideme-21.1.19.jar'
+url = 'https://cdn.modrinth.com/data/Ck4E7v7R/versions/JBFCgJmg/guideme-21.1.21.jar'
 
 [update.modrinth]
 mod-id = 'Ck4E7v7R'
-version = 'hFpGwC6q'
+version = 'JBFCgJmg'
