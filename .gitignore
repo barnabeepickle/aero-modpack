@@ -97,7 +97,9 @@
 /minecraft/config/enderio
 /minecraft/config/enderio_evolution
 /minecraft/config/estrogen
-/minecraft/config/extremereactors
+#/minecraft/config/extremereactors
+#/minecraft/config/extremereactors/client.toml
+/minecraft/config/extremereactors/common.toml
 
 /minecraft/config/ad_astra_giselle_addon.jsonc
 /minecraft/config/ad_astra-client.jsonc
