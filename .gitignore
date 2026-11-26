@@ -108,6 +108,7 @@
 /minecraft/config/ae2-common.toml
 /minecraft/config/ae2wtlib-client.toml
 /minecraft/config/ae2wtlib.toml
+/minecraft/config/aeronautics-client.toml
 /minecraft/config/aeronautics-server.toml
 #/minecraft/config/ambientsounds-client.json
 /minecraft/config/antique-atlas.toml
@@ -117,6 +118,7 @@
 /minecraft/config/azimuth-common.toml
 /minecraft/config/badoptimizations.txt
 /minecraft/config/betteradvancements-client.toml
+/minecraft/config/betterf3.toml
 /minecraft/config/betterpingdisplay-client.toml
 /minecraft/config/bhc-startup.toml
 /minecraft/config/botania-client.toml
@@ -276,10 +278,12 @@
 /minecraft/config/refurbished_furniture.server.toml
 /minecraft/config/resourceful-config-web.json
 /minecraft/config/ritchiesprojectilelib-server.toml
+/minecraft/config/roxy-compat.json
 /minecraft/config/sable-client.toml
 /minecraft/config/sable-common.toml
 /minecraft/config/sable-server.toml
 #/minecraft/config/securitycraft-client.toml
+/minecraft/config/seleafculling.json
 /minecraft/config/showercore-client.toml
 /minecraft/config/showercore-common.toml
 /minecraft/config/simpleradio-client.toml
