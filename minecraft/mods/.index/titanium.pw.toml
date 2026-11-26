@@ -1,18 +1,18 @@
-filename = 'titanium-1.21-4.0.51.jar'
+filename = 'titanium-1.21-4.0.56.jar'
 name = 'Titanium'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.21-4.0.51'
+x-prismlauncher-version-number = '1.21-4.0.56'
 
 [download]
-hash = '59a1470b5b3e103f52fa9c0f2f334bb3b28cdbaba74c95234528a40a558596d598227968e5812502a41a9ee24993b00c748cee913abae8fbb4ab7df79d04ab29'
+hash = 'e41f1cbbc04a5aa80ef24c377587e1eca837e1f8e7cfa2526f8f3efd6e9209875e9aa87c9964132c76e2b1d429096c28d03512cac490a52fc0dcbd70a23d8496'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/1Ro7m06l/versions/vbCgpf68/titanium-1.21-4.0.51.jar'
+url = 'https://cdn.modrinth.com/data/1Ro7m06l/versions/ipoFMkfv/titanium-1.21-4.0.56.jar'
 
 [update.modrinth]
 mod-id = '1Ro7m06l'
-version = 'vbCgpf68'
+version = 'ipoFMkfv'

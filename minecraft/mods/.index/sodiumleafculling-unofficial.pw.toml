@@ -1,21 +1,25 @@
-filename = 'seleafculling-neoforge-4.0.2+1.21.1.jar'
-name = 'SodiumLeafCulling-Unofficial'
+filename = 'seleafculling-neoforge-4.3.1-1.21.1.jar'
+name = 'Sodium/Embeddium LeafCulling'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Sodium/Embeddium LeafCulling 4.0.2 - Minecraft 1.21.1 NeoForge'
+x-prismlauncher-version-number = 'Sodium/Embeddium LeafCulling 4.3.1 - Minecraft 1.21.1 NeoForge'
 
 [download]
-hash = '92651b7d2cc68177c3d5a1dbd4205cfad3fae1f8'
+hash = 'b02958480699cb2484eeafbcc21caa27a20fab77'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9282607
+file-id = 9733697
 project-id = 1526849
 
 [[x-prismlauncher-dependencies]]
 addonId = '394468'
-type = 'REQUIRED'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '908741'
+type = 'OPTIONAL'

@@ -1,20 +1,20 @@
-filename = 'enderio_conduit_opt-1.1.6-1.21.1.jar'
+filename = 'enderio_conduit_opt-1.1.7-1.21.1.jar'
 name = 'Ender IO: Conduit Optimizer'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.6-1.21.1'
+x-prismlauncher-version-number = '1.1.7-1.21.1'
 
 [download]
-hash = 'e9be01583bc16b95fa0571d6825d435232f2c5384e7365fce711e7aeaf1626b834fe9d40aaba2a6c3d91f12c144aa0963126a437641e5f845038975e3a841f18'
+hash = '609d50cf138df5b31f018b2ca40fdbdea2fa829f6c9c253decc45e5ceec78ab322f066a543444ba291f57b0212badb276f4afa79c5c28bbb251ce1693f0ddc1d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/SgW9mQeM/versions/ywdy6tkv/enderio_conduit_opt-1.1.6-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/SgW9mQeM/versions/r86xhg9h/enderio_conduit_opt-1.1.7-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'SgW9mQeM'
-version = 'ywdy6tkv'
+version = 'r86xhg9h'
 
 [[x-prismlauncher-dependencies]]
 addonId = '49ZofO4f'

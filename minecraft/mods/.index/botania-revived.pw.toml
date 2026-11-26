@@ -1,19 +1,19 @@
-filename = 'Botania Revived-1.21.1-1.0.3-NeoForge.jar'
+filename = 'Botania-Revived-1.21.1-2.0.4-NeoForge.jar'
 name = 'Botania Revived'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'BotaniaRevived-1.21.1-1.0.3-NeoForge'
+x-prismlauncher-version-number = 'BotaniaRevived-1.21.1-2.0.4-NeoForge'
 
 [download]
-hash = '6b58e9c487194f3645b883ecdfa7b99c430c16df'
+hash = '00ebd14c970335dc695c06631cbd299dff12a60c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9293832
+file-id = 9695259
 project-id = 1725641
 
 [[x-prismlauncher-dependencies]]
