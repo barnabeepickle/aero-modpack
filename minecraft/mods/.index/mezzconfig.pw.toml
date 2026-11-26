@@ -1,6 +1,6 @@
 filename = 'mezz_config-1.21.1-neoforge-0.7.1-standalone.jar'
 name = 'MezzConfig'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
